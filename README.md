@@ -7,8 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/harshilkumar-hk" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:harshilkumar12@gmail.com" title="Email"><img width="22" src="images/email.svg"> Email</a></code>
+  <code><a href="https://www.linkedin.com/in/harshilkumar-hk" title="LinkedIn Profile"> <img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
+
 </h5>
 
 <br>
@@ -23,25 +23,87 @@
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Programming Languages and Tools</h2>
 <p align="center">
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Spring Boot" height="25" src="images/spring.svg"></code>
-  <code><img title="FastAPI" height="25" src="images/fastapi.png"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Postman" height="25" src="images/postman.png"></code>
-  <code><img title="Linux" height="25" src="images/linux.svg"></code>
+  <!-- Languages -->
+  <img title="Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img title="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img title="C" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img title="C++" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img title="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img title="Bash" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <img title="HTML5" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img title="CSS3" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img title="SQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+  <!-- Frameworks & Libraries -->
+  <img title="Spring" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img title="React.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img title="Node.js" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img title="Bootstrap" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img title="MongoDB" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+
+  <!-- Tools -->
+  <img title="Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img title="Maven" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
+  <img title="Docker" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img title="Postman" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img title="Microsoft Azure" height="35" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg">
+  <img title="AWS" height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+
+  <!-- IDEs & OS -->
+  <img title="Eclipse" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
+  <img title="VSCode" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img title="Linux" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </p>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">Featured Projects</h2>
+<h2 align="center">📂 Featured Projects</h2>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hashi11002/Auction-Website" title="Auction Website">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=Auction-Website&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/hashi11002/PDF-formatter" title="PDF Formatter">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=PDF-formatter&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br><br><br><br><br><br>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hashi11002/Image-to-Document-Converter" title="Image to Document Converter">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=Image-to-Document-Converter&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/hashi11002/App-Sentiment-Analysis" title="App Sentiment Analysis">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=App-Sentiment-Analysis&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br><br><br><br><br><br>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/lucastefanescu/Flicks" title="Flicks (Forked)">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=lucastefanescu&repo=Flicks&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/hashi11002/Warehouse-Management" title="Warehouse Management">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=Warehouse-Management&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br><br><br><br><br><br>
+
+<h4 align="center">
+  <a href="https://github.com/hashi11002?tab=repositories" title="More Repositories">🔍 Browse More Projects</a>
+</h4>
+
+
+<h4 align="center">
+  <a href="https://github.com/hashi11002?tab=repositories" title="More Repositories">🔍 Browse More Projects</a>
+</h4>
+<h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hashi11002&show_icons=true&theme=react&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hashi11002&theme=react&hide_border=true" />
@@ -52,18 +114,3 @@
 </p>
 
 ---
-
-<h2 align="center">📂 Featured Projects</h2>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/hashi11002/movie-recommendation-app" title="Movie Recommendation App">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=movie-recommendation-app&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/hashi11002/ecommerce-auction-system" title="E-Commerce Auction System">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=ecommerce-auction-system&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<br><br><br><br><br><br>
-
-<h4 align="center">
-  <a href="https://github.com/hashi11002?tab=repositories" title="More Repositories">🔍 Browse More Projects</a>
-</h4>
