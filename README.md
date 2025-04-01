@@ -61,40 +61,27 @@
 
 <h2 align="center">Featured Projects</h2>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/hashi11002/Flicks" title="Flicks (Forked)">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=Flicks&theme=react&border_color=61dafb&border_radius=10">
+<div align="center">
+  <a href="https://github.com/hashi11002/Auction-Website" title="Auction Website">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=Auction-Website&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/hashi11002/Auction-Website" title="Auction Website">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=Auction-Website&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br><br><br><br><br><br>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/hashi11002/PDF-formatter" title="PDF Formatter">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=PDF-formatter&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/hashi11002/App-Sentiment-Analysis" title="App Sentiment Analysis">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=App-Sentiment-Analysis&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/hashi11002/Warehouse-Management" title="Warehouse Management">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=Warehouse-Management&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/hashi11002/Image-to-Document-Converter" title="Image to Document Converter">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=Image-to-Document-Converter&theme=react&border_color=61dafb&border_radius=10">
+<div align="center">
+  <a href="https://github.com/hashi11002/PDF-formatter" title="PDF Formatter">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=PDF-formatter&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/hashi11002/Warehouse-Management" title="Warehouse Management">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=Warehouse-Management&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/hashi11002/App-Sentiment-Analysis" title="App Sentiment Analysis">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=App-Sentiment-Analysis&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
-<br><br><br><br><br><br>
-
-
+<br><br><br><br>
 
 <h4 align="center">
   <a href="https://github.com/hashi11002?tab=repositories" title="More Repositories">🔍 Browse More Projects</a>
@@ -104,8 +91,9 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hashi11002&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hashi11002&theme=react&hide_border=true" />
+  <img style="width:45%;" src="https://github-readme-stats.vercel.app/api?username=hashi11002&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img style="width:45%;" src="https://github-readme-streak-stats.herokuapp.com?user=hashi11002&theme=react&hide_border=true" />
+</p>
 </p>
 
 <p align="center">
