@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hashi11002.hashi11002">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Harshil-K.Harshil-K">
 
 <h1 align="center">
   <p align="center"><strong>Hello, There! I am Harshil Kumar.</strong></p>
@@ -64,42 +64,42 @@
 <h2 align="center">Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/hashi11002/Auction-Website" title="Auction Website">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=Auction-Website&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/Harshil-K/Auction-Website" title="Auction Website">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Harshil-K&repo=Auction-Website&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/hashi11002/Warehouse-Management" title="Warehouse Management">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=Warehouse-Management&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/Harshil-K/Warehouse-Management" title="Warehouse Management">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Harshil-K&repo=Warehouse-Management&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
 <br><br><br><br>
 
 <div align="center">
-  <a href="https://github.com/hashi11002/PDF-formatter" title="PDF Formatter">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=PDF-formatter&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/Harshil-K/PDF-formatter" title="PDF Formatter">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Harshil-K&repo=PDF-formatter&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/hashi11002/App-Sentiment-Analysis" title="App Sentiment Analysis">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hashi11002&repo=App-Sentiment-Analysis&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/Harshil-K/App-Sentiment-Analysis" title="App Sentiment Analysis">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Harshil-K&repo=App-Sentiment-Analysis&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
 <br><br><br><br>
 
 <h4 align="center">
-  <a href="https://github.com/hashi11002?tab=repositories" title="More Repositories">🔍 Browse More Projects</a>
+  <a href="https://github.com/Harshil-K?tab=repositories" title="More Repositories">🔍 Browse More Projects</a>
 </h4>
 
 ---
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img style="width:45%;" src="https://github-readme-stats.vercel.app/api?username=hashi11002&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img style="width:45%;" src="https://github-readme-streak-stats.herokuapp.com?user=hashi11002&theme=react&hide_border=true" />
+  <img style="width:45%;" src="https://github-readme-stats.vercel.app/api?username=Harshil-K&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img style="width:45%;" src="https://github-readme-streak-stats.herokuapp.com?user=Harshil-K&theme=react&hide_border=true" />
 </p>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashi11002&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshil-K&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ---
