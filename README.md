@@ -1,10 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hashi11002.hashi11002">
 
 <h1 align="center">
+  <p align="center"><strong>Hello, There! I am Harshil Kumar.</strong></p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;I'm+Harshil+Kumar;Software+Engineer+&+Tech+Enthusiast;Welcome+to+my+GitHub!&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Recent+Software+Engineer+Graduate+and+Tech+Enthusiast.;Welcome+to+my+GitHub!&center=true&size=18&duration=3000&pause=1000&repeat=false&width=600">
+</a>
 </h1>
+
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/harshilkumar-hk" title="LinkedIn Profile"> <img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
